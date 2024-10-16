@@ -86,6 +86,12 @@ If you want the ASCII art to appear every time you clear the terminal, follow th
     nano .bashrc
     ```
 
+>[!NOTE]
+If you're using ***zsh Shell*** open whit the next command
+```bahs
+nano ~/.zshrc
+```
+
 3. Add the following function at the end of the script. Replace `"fontname"` with your desired font and `"yourtext"` with the text you want to display.
 
     ```bash
