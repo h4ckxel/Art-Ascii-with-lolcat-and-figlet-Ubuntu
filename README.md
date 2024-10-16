@@ -1,5 +1,10 @@
+<div align="center">
 
 # ASCII Art with Figlet and Lolcat on Ubuntu
+
+<img src="/images/artascii.png" width="90%"/>
+
+</div>
 
 ### Step-by-step guide to adding a bit of flair to your terminal using **Lolcat** and **Figlet**.
 
