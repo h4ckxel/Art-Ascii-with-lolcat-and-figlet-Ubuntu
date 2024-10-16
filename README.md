@@ -95,6 +95,9 @@ nano ~/.zshrc
 3. Add the following function at the end of the script. Replace `"fontname"` with your desired font and `"yourtext"` with the text you want to display.
 
     ```bash
+    
+    figlet -f fontname -c "yourtext" | lolcat
+    
     clear() {
         command clear
         echo -e "\033[30m$(figlet -f fontname -c "yourtext")\>
