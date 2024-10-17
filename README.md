@@ -83,7 +83,7 @@ If you want the ASCII art to appear every time you clear the terminal, follow th
 2. Open the `.bashrc` file for editing:
 
     ```bash
-    nano .bashrc
+    nano ~/.bashrc
     ```
 
 >[!NOTE]
